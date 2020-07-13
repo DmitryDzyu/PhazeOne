@@ -151,13 +151,13 @@
             </snapshots>
             <id>central</id>
             <name>libs-release</name>
-            <url>http://nexus/repository/maven-public/</url>
+            <url>http://nexus.corp.dev.vtb/repository/maven-public/</url>
         </repository>
         <repository>
             <snapshots/>
             <id>snapshots</id>
             <name>libs-snapshot</name>
-            <url>http://nexus/repository/maven-public/</url>
+            <url>http://nexus.corp.dev.vtb/repository/maven-public/</url>
         </repository>
     </repositories>
     <pluginRepositories>
@@ -167,13 +167,13 @@
             </snapshots>
             <id>central</id>
             <name>plugins-release</name>
-            <url>http://nexus/repository/maven-public/</url>
+            <url>http://nexus.corp.dev.vtb/repository/maven-public/</url>
         </pluginRepository>
         <pluginRepository>
             <snapshots/>
             <id>snapshots</id>
             <name>plugins-snapshot</name>
-            <url>http://nexus/repository/maven-public/</url>
+            <url>http://nexus.corp.dev.vtb/repository/maven-public/</url>
         </pluginRepository>
     </pluginRepositories>
 </project>
